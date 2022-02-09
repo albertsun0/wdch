@@ -34,15 +34,15 @@ function Top() {
                     </div>
                 </animated.div>
             
-                <animated.div style={anim2} className='text-2xl px-10 bg-black p-2 flex flex-col items-end'>
+                <animated.div style={anim2} className='text-2xl px-10 bg-black p-2 flex flex-col items-end space-y-4'>
                     <a href = "#about" className = 'z-50 underline'>
                         About
                     </a>
                     <div className = 'z-50 underline'>
-                        Architecture
+                        Up Close
                     </div>
                     <div className = 'z-50 underline'>
-                        a
+                        Architectural Drawings
                     </div>
                 </animated.div>
             </div>
