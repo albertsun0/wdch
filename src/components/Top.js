@@ -34,16 +34,29 @@ function Top() {
                     </div>
                 </animated.div>
             
-                <animated.div style={anim2} className='text-2xl px-10 bg-black p-2 flex flex-col items-end space-y-4'>
+                <animated.div style={anim2} className='text-2xl px-10 bg-black p-2 flex flex-col items-end space-y-4 pb-10'>
                     <a href = "#about" className = 'z-50 underline'>
                         About
                     </a>
-                    <div className = 'z-50 underline'>
+                    <a href = "#close" className = 'z-50 underline'>
                         Up Close
-                    </div>
-                    <div className = 'z-50 underline'>
-                        Architectural Drawings
-                    </div>
+                    </a>
+                    <a href = "#drawings" className = 'z-50 underline'>
+                     Architectural Drawings
+                    </a>
+                    <a href = "#publications" className = 'z-50 underline'>
+                        Publications
+                    </a>
+
+                    <a href = "#other" className = 'z-50 underline'>
+                        Other
+                    </a>
+                    <a href = "#gallery" className = 'z-50 underline'>
+                        Gallery
+                    </a>
+                    <a href = "#cite" className = 'z-50 underline'>
+                        Citations
+                    </a>
                 </animated.div>
             </div>
             

@@ -3,6 +3,9 @@ import { useSpring, animated } from 'react-spring'
 import Loading from './Loading'
 import Top from './Top'
 import AboutSection from './AboutSection'
+import Other from './Other'
+import Gallery from './Gallery'
+import Bottom from './Bottom'
 
 function Main() {
     const [loading, setLoading] = useState(true);
@@ -20,6 +23,9 @@ function Main() {
             <Top className="overflow-hidden w-full h-screen"></Top>
             <Loading className = "absolute"></Loading>
             <AboutSection></AboutSection>
+            <Other></Other>
+            <Gallery></Gallery>
+            <Bottom></Bottom>
         </div>
         
     ) 
