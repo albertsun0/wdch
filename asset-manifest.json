@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ScavengerHunt/static/css/main.78dd027e.css",
+    "main.js": "/ScavengerHunt/static/js/main.8af21b5b.js",
+    "static/js/787.9bce1a39.chunk.js": "/ScavengerHunt/static/js/787.9bce1a39.chunk.js",
+    "static/media/location.png": "/ScavengerHunt/static/media/location.bb01b1f0071b567cb1f2.png",
+    "static/media/drawing.jpg": "/ScavengerHunt/static/media/drawing.f2a0a2bc98d83e3a2ae9.jpg",
+    "index.html": "/ScavengerHunt/index.html",
+    "static/media/headphones.svg": "/ScavengerHunt/static/media/headphones.577f279c23a7ee0f4917041279533564.svg",
+    "static/media/arrow.svg": "/ScavengerHunt/static/media/arrow.d45fd2f46e93f5c3aa0a7d0617d9fecf.svg",
+    "main.78dd027e.css.map": "/ScavengerHunt/static/css/main.78dd027e.css.map",
+    "main.8af21b5b.js.map": "/ScavengerHunt/static/js/main.8af21b5b.js.map",
+    "787.9bce1a39.chunk.js.map": "/ScavengerHunt/static/js/787.9bce1a39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78dd027e.css",
+    "static/js/main.8af21b5b.js"
+  ]
+}
